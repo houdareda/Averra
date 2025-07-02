@@ -102,7 +102,7 @@ input, button{
 /* Start hero Section */
 
 .hero .content{
-  background: url(../images/bg-hero.jpg);
+  background: url(../images/bg-hero.webp);
   background-size: cover;
   background-position: bottom;
   padding-top: 10px;
@@ -263,7 +263,6 @@ input, button{
 .doctor .text ul li{
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 7px;
   color: #fff;
   font-size: 3vw;
@@ -573,7 +572,7 @@ input, button{
 
 
 body.thanks_page_page {
-  background: url(../images/thanks.jpg) center/cover;
+  background: url(../images/thanks.webp) center/cover;
   min-height: 100vh;
 }
 
